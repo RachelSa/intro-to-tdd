@@ -14,6 +14,6 @@ Lecture code for Intro to TDD
 
 ## To Do
 
-  1. Write test for Jumbler addLetter, which should take in a letter as an argument and add the letter to allLetters.
-  2. Create test for rotate, which should take the first letter from allLetters, and move it to the last position.
-  3. No more that 10 letters should be added. After 10 letters are in allLetters, it should not get any more letters, even if addLetter is called.
+  1. Jumbler should have a function `addLetter`, which takes in a letter as an argument and returns `allLetters`.
+  2. Jumbler should have a function `rotate`, which takes the first letter from `allLetters`, and moves it to the last position.
+  3. No more that 10 letters should be added. After 10 letters are in `allLetters`, it should not add letters to it's length, even if `addLetter` is called.
