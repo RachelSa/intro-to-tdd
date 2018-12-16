@@ -5,6 +5,11 @@ Lecture code for Intro to TDD
 [Jest](https://jestjs.io/docs/en/getting-started.html)
 [Babel](https://jest-bot.github.io/jest/docs/babel.html)
 
+## Before getting started
+ - A bit about me
+ - Why TDD?
+ - Code challenge approach
+
 ## To Do
 
   1. Write test for Jumbler addLetter.
