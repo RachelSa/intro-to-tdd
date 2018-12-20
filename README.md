@@ -7,6 +7,7 @@ Lecture code for Intro to TDD
 
 ## Before getting started
  - A bit about me
+ - What is TDD?
  - Why TDD?
  - Code challenge approach
  - What is the Jumble?
