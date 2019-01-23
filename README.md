@@ -8,8 +8,20 @@ Lecture code for Intro to TDD
 ## Before getting started
  - A bit about me
  - What is TDD?
+    - Tests drive implementation
+    - A way of approaching a problem
+    - Start with simple tests and simple implementation
  - Why TDD?
- - Code challenge approach
+    - Allows secure refactor
+    - Secure deployments
+    - Tests as documentation
+ - The code challenge approach, generally
+    - language and framework-agnostic. (Don't worry about the things you don't know!)
+    - you may encounter it in your job search
+ - The code challenge approach in this study group
+    - I'll write the test and invite you to talk me through writing the implementation.
+    - Ask for help if you need it; this is collaborative!
+    - This is an approach you can try in your next project or when preparing for code challenges, but it's not something you need to study as part of your FI curriculum.
  - What is the Jumble?
  - Directory tour
 
